@@ -1,7 +1,9 @@
-- **Humans** 
+- **Human** 
   - [Being](https://github.com/MechatronicBeing/HumanBeing)
-  - [Language](https://github.com//MechatronicBeing/HumanLanguage)
+  - Language
+    - [Spoken](https://github.com//MechatronicBeing/HumanLanguageSpoken)
+    - [Written](https://github.com//MechatronicBeing/HumanLanguageWritten)
   - [World](https://github.com//MechatronicBeing/HumanWorld)
   - [Music](https://github.com//MechatronicBeing/HumanMusic)
-- **Computers**
+- **Computer**
   - [Applications](https://github.com//MechatronicBeing/ComputerApplication)
