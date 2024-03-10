@@ -6,4 +6,5 @@
   - [World](https://github.com//MechatronicBeing/HumanWorld)
   - [Music](https://github.com//MechatronicBeing/HumanMusic)
 - **Computer**
+  - [Programs](https://github.com//MechatronicBeing/ComputerProgram)
   - [Applications](https://github.com//MechatronicBeing/ComputerApplication)
