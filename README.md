@@ -1,5 +1,5 @@
 - **Human** 
-  - [Being](https://github.com/MechatronicBeing/HumanBeing)
+  - [Beings](https://github.com/MechatronicBeing/HumanBeings)
   - Languages
     - [Spoken](https://github.com//MechatronicBeing/HumanLanguageSpoken)
     - [Written](https://github.com//MechatronicBeing/HumanLanguageWritten)
