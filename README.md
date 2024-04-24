@@ -5,7 +5,8 @@
     - [Written](https://github.com//MechatronicBeing/HumanLanguageWritten)
   - [World](https://github.com//MechatronicBeing/HumanWorld)
   - [Music](https://github.com//MechatronicBeing/HumanMusic)
-- **Computer**
-  - [Language](https://github.com//MechatronicBeing/ComputerLanguage)
-    - [Program](https://github.com//MechatronicBeing/ComputerProgram)
-      - [Web](https://github.com//MechatronicBeing/ComputerProgramWeb)
+- **Machine**
+  - [Being](https://github.com//MechatronicBeing/MachineBeing)
+  - [Language](https://github.com//MechatronicBeing/MachineLanguage)
+    - [Program](https://github.com//MechatronicBeing/MachineProgram)
+      - [Web](https://github.com//MechatronicBeing/MachineProgramWeb)
