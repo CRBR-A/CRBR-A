@@ -1,14 +1,12 @@
 - **Human** 
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)
-  - Languages
-    - [Spoken](https://github.com//MechatronicBeing/HumanLanguageSpoken)
-    - [Written](https://github.com//MechatronicBeing/HumanLanguageWritten)
-  - [World](https://github.com//MechatronicBeing/HumanWorld)
-  - [Music](https://github.com//MechatronicBeing/HumanMusic)
+  - Languages : [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken), [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
+  - [World](https://github.com/MechatronicBeing/HumanWorld)
+  - [Music](https://github.com/MechatronicBeing/HumanMusic)
   - Works
-    - [Comics](https://github.com//MechatronicBeing/HumanWorksComics)
+    - [Comics](https://github.com/MechatronicBeing/HumanWorksComics)
 - **Machine**
-  - [Beings](https://github.com//MechatronicBeing/MachineBeings)
-  - [Languages](https://github.com//MechatronicBeing/MachineLanguages)
-    - [Programs](https://github.com//MechatronicBeing/MachinePrograms)
-      - [Web](https://github.com//MechatronicBeing/MachineProgramsWeb)
+  - [Beings](https://github.com/MechatronicBeing/MachineBeings)
+  - [Languages](https://github.com/MechatronicBeing/MachineLanguages)
+    - [Programs](https://github.com/MechatronicBeing/MachinePrograms)
+      - [Web](https://github.com/MechatronicBeing/MachineProgramsWeb)
