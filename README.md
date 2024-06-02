@@ -1,7 +1,7 @@
 - **Human** 
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)
   - Languages : [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken), [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
-  - [World](https://github.com/MechatronicBeing/HumanWorld)
+  - [World](https://github.com/MechatronicBeing/HumanWorld), [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
   - [Music](https://github.com/MechatronicBeing/HumanMusic)
   - Works
     - [Comics](https://github.com/MechatronicBeing/HumanWorksComics)
