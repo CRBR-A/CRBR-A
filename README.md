@@ -1,7 +1,8 @@
 - **Human** 
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)
   - Languages : [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken), [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
-  - [World](https://github.com/MechatronicBeing/HumanWorld) and [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
+  - Geography : [World](https://github.com/MechatronicBeing/HumanWorld) and [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
+  - [History](https://github.com/MechatronicBeing/HumanHistory) 
   - [Music](https://github.com/MechatronicBeing/HumanMusic)
   - Leisures
     - [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)
