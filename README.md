@@ -2,7 +2,6 @@
   - [Dogs](https://github.com/MechatronicBeing/AnimalDogs)
 - **Human** 
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)
-  - [Activities](https://github.com/MechatronicBeing/HumanActivities)
   - Languages :
     - [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken)
     - [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
@@ -12,9 +11,10 @@
     - [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
   - [History](https://github.com/MechatronicBeing/HumanHistory) 
   - [Music](https://github.com/MechatronicBeing/HumanMusic)
-  - Leisures
-    - [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)
-    - [Games](https://github.com/MechatronicBeing/HumanLeisuresGames)
+  - [Activities](https://github.com/MechatronicBeing/HumanActivities)
+    - Leisures
+      - [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)
+      - [Games](https://github.com/MechatronicBeing/HumanLeisuresGames)
 - **Machine**
   - [Beings](https://github.com/MechatronicBeing/MachineBeings)
   - [Languages](https://github.com/MechatronicBeing/MachineLanguages)
