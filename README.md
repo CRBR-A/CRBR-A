@@ -1,7 +1,15 @@
+- **Animal** 
+  - [Dogs](https://github.com/MechatronicBeing/AnimalDogs)
 - **Human** 
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)
-  - Languages : [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken), [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
-  - Geography : [World](https://github.com/MechatronicBeing/HumanWorld) and [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
+  - [Activities](https://github.com/MechatronicBeing/HumanActivities)
+  - Languages :
+    - [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken)
+    - [Written](https://github.com/MechatronicBeing/HumanLanguageWritten)
+    - Signed (wanted, searching for public resources...)
+  - Geography :
+    - [World](https://github.com/MechatronicBeing/HumanWorld)
+    - [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)
   - [History](https://github.com/MechatronicBeing/HumanHistory) 
   - [Music](https://github.com/MechatronicBeing/HumanMusic)
   - Leisures
