@@ -1,7 +1,7 @@
 **Free public resources**, for anyone (human or machine) and any purpose, at any time and anywhere.
-+ **Animal**  
-  - [Dogs](https://github.com/MechatronicBeing/AnimalDogs)
-  - Cats
++ **Animal** : 
+  [Dogs](https://github.com/MechatronicBeing/AnimalDogs),
+  Cats  
 + **Human**  
   - [Beings](https://github.com/MechatronicBeing/HumanBeings)  
   - Languages : 
