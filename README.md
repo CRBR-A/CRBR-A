@@ -1,4 +1,4 @@
-**Free public resources**, for anyone (human or machine) and any purpose, at any time and anywhere.
+**Free public resources**, for anyone (human or machine) and any purpose, anywhere, any time.
 + **Animal** : 
   [Dogs](https://github.com/MechatronicBeing/AnimalDogs),
   Cats  
