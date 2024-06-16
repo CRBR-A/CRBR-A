@@ -15,8 +15,9 @@
   - [History](https://github.com/MechatronicBeing/HumanHistory)  
   - [Music](https://github.com/MechatronicBeing/HumanMusic)  
   - [Activities](https://github.com/MechatronicBeing/HumanActivities)  
-    - Leisures  
-      - [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)  
+    - Leisures
+      - Books : 
+        [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)  
       - [Games](https://github.com/MechatronicBeing/HumanLeisuresGames)  
 + **Machine**  
   - [Beings](https://github.com/MechatronicBeing/MachineBeings)  
