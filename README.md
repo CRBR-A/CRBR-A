@@ -1,30 +1,40 @@
-**Free public resources**, for anyone (human or machine), anywhere, any purpose, any time.
-+ **Animal** : 
-  [Dogs](https://github.com/MechatronicBeing/AnimalDogs),
+**CRBR-A**  
+Free public resources, for anyone (human or machine), anywhere, any purpose, any time.  
+
+**Topics** :  
++ **Animal** :
+  [Dogs](https://github.com/CRBR-A/AnimalDogs),
   Cats  
 + **Human**  
-  - [Beings](https://github.com/MechatronicBeing/HumanBeings)  
+  - [Beings](https://github.com/CRBR-A/HumanBeings)  
   - Languages : 
-    [Spoken](https://github.com/MechatronicBeing/HumanLanguageSpoken), 
-    [Written](https://github.com/MechatronicBeing/HumanLanguageWritten), 
+    [Spoken](https://github.com/CRBR-A/HumanLanguageSpoken), 
+    [Written](https://github.com/CRBR-A/HumanLanguageWritten), 
     Signed
   - Sciences
-    - [Mathematics](https://github.com/MechatronicBeing/HumanSciencesMathematics)
-  - [World](https://github.com/MechatronicBeing/HumanWorld),
-    [Countries](https://github.com/MechatronicBeing/HumanWorldCountries)  
-  - [History](https://github.com/MechatronicBeing/HumanHistory)  
-  - [Music](https://github.com/MechatronicBeing/HumanMusic)  
-  - [Activities](https://github.com/MechatronicBeing/HumanActivities)
-    - [Economies](https://github.com/MechatronicBeing/HumanActivitiesEconomies)  
+    - [Mathematics](https://github.com/CRBR-A/HumanSciencesMathematics)
+  - [World](https://github.com/CRBR-A/HumanWorld),
+    [Countries](https://github.com/CRBR-A/HumanWorldCountries)  
+  - [History](https://github.com/CRBR-A/HumanHistory)  
+  - [Music](https://github.com/CRBR-A/HumanMusic)  
+  - [Activities](https://github.com/CRBR-A/HumanActivities)
+    - [Economies](https://github.com/CRBR-A/HumanActivitiesEconomies)  
     - Leisures
       - Books : 
-        [Comics](https://github.com/MechatronicBeing/HumanLeisuresBooksComics)  
-      - [Games](https://github.com/MechatronicBeing/HumanLeisuresGames)  
+        [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
+      - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
 + **Machine**  
-  - [Beings](https://github.com/MechatronicBeing/MachineBeings)  
-  - [Languages](https://github.com/MechatronicBeing/MachineLanguages) : 
-    [Programs](https://github.com/MechatronicBeing/MachinePrograms), 
-    [Web](https://github.com/MechatronicBeing/MachineProgramsWeb)  
+  - [Beings](https://github.com/CRBR-A/MachineBeings)  
+  - [Languages](https://github.com/CRBR-A/MachineLanguages) : 
+    [Programs](https://github.com/CRBR-A/MachinePrograms), 
+    [Web](https://github.com/CRBR-A/MachineProgramsWeb)  
+  
+**Works** :
++ **In Progress** :  
+  - CRBR-A : Calendar (programs and raw files)  
++ **Pending** :  
+  - [Purlandtraining.com (website down)](https://purlandtraining.com/) : English lessons  
+  - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical and bilingual), encyclopedia  
   
 **Contact** : 
-<code><!-- &#x20; --></code>&#x4D;&#x65;&#x63;&#x68;&#x61;<span><!-- &#x40; --></span>&#x74;&#x72;&#x6F;&#x6E;&#x69;<!-- &#x40; --></span>&#x63;&#x42;&#x65;&#x69;&#x6E;&#x67;&#x40;&#x67;&#x6D;&#x61;<!-- &#x40; --></span>&#x69;<!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>  
+<code><!-- &#x20; --></code>&#x43;&#x65;&#x72;&#x62;&#x65;&#x72;&#x65;<span><!-- &#x40; --></span>&#x2E;&#x41;&#x63;&#x65;<span><!-- &#x40; --></span>&#x40;&#x67;&#x6D;&#x61;<span><!-- &#x40; --></span>&#x69;<span><!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>  
