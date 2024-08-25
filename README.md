@@ -31,9 +31,10 @@ Free public resources, for anyone (human or machine), anywhere, any purpose, any
   
 **Works** :
 + **In Progress** :  
-  - CRBR-A : Calendar (programs and raw files)  
-+ **Pending** :  
+  - Machine Beings : guides for smart bots, robots and Humans  
   - [Purlandtraining.com (website down)](https://purlandtraining.com/) : English lessons  
+  - Mathematics
++ **Pending** :  
   - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical, bilingual), encyclopedia  
   
 **Contact** : 
