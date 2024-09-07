@@ -1,45 +1,45 @@
 **CRBR-A**  
-Free public resources, for anyone (human or machine), anywhere, any purpose, any time.  
+Free public resources, for anyone, anywhere, any purpose, any time.  
 
 **Topics** :  
-+ **Animal** :
++ **Animal**
   [Dogs](https://github.com/CRBR-A/AnimalDogs),
   Cats  
 + **Human**  
-  - Languages : 
-    [Spoken](https://github.com/CRBR-A/HumanLanguageSpoken), 
-    [Written](https://github.com/CRBR-A/HumanLanguageWritten), 
-    Signed
-  - Sciences
-    - [Health](https://github.com/CRBR-A/HumanSciencesHealth)
-    - [Mathematics](https://github.com/CRBR-A/HumanSciencesMathematics)
-  - [World](https://github.com/CRBR-A/HumanWorld),
+  + [Languages](https://github.com/CRBR-A/HumanLanguages)
+    - [Mathematics](https://github.com/CRBR-A/HumanLanguagesMathematics)  
+    - [English](https://github.com/CRBR-A/HumanLanguagesEnglish)  
+    - Français  
+    - Signed  
+  + Sciences  
+    - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
+  + [World](https://github.com/CRBR-A/HumanWorld),
     [Countries](https://github.com/CRBR-A/HumanWorldCountries)  
-  - [History](https://github.com/CRBR-A/HumanHistory)  
-  - [Time](https://github.com/CRBR-A/HumanTime)   
-  - [Sounds](https://github.com/CRBR-A/HumanSounds)  
-  - Society : 
+  + [History](https://github.com/CRBR-A/HumanHistory)  
+  + [Time](https://github.com/CRBR-A/HumanTime)  
+  + [Sounds](https://github.com/CRBR-A/HumanSounds)  
+  + Society  
      - [Economies](https://github.com/CRBR-A/HumanActivitiesEconomies)  
      - [Laws](https://github.com/CRBR-A/HumanLaws)  
-  - [Activities](https://github.com/CRBR-A/HumanActivities)
-    - Leisures 
-      - Books : 
+  + [Activities](https://github.com/CRBR-A/HumanActivities)  
+    + Leisures
+      - Books
         [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
-      - [Games](https://github.com/CRBR-A/HumanLeisuresGames)
-      - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)       
+      - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
+      - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
 + **Machine**  
-  - [Beings](https://github.com/CRBR-A/MachineBeings)  
-  - [Languages](https://github.com/CRBR-A/MachineLanguages) : 
+  + [Beings](https://github.com/CRBR-A/MachineBeings)  
+  + [Languages](https://github.com/CRBR-A/MachineLanguages) : 
     [Programs](https://github.com/CRBR-A/MachinePrograms), 
     [Web](https://github.com/CRBR-A/MachineProgramsWeb)  
-  - Leisures  
+  + Leisures  
     - Games  
   
-**Works** :
-+ **In Progress** :  
+**Works** :  
++ **In Progress** :   
   - Machine Beings : guides for smart bots, robots and Humans  
   - [Purlandtraining.com (website down)](https://purlandtraining.com/) : English lessons  
-  - Mathematics
+  - Mathematics  
 + **Pending** :  
   - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical, bilingual), encyclopedia  
   
