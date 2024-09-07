@@ -2,7 +2,7 @@
 Free public resources, for anyone, anywhere, any purpose, any time.  
 
 **Topics** :  
-+ **Animal**
++ **Animal**   
   [Dogs](https://github.com/CRBR-A/AnimalDogs),
   Cats  
 + **Human**  
@@ -23,7 +23,7 @@ Free public resources, for anyone, anywhere, any purpose, any time.
      - [Laws](https://github.com/CRBR-A/HumanLaws)  
   + [Activities](https://github.com/CRBR-A/HumanActivities)  
     + Leisures
-      - Books
+      - Books : 
         [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
       - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
       - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
