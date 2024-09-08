@@ -1,10 +1,10 @@
 **CRBR-A**  
-Free public resources, for anyone, anywhere, any purpose, any time.  
+Free public resources, for anyone, any purpose, anywhere, any time.  
 
 **Topics** :  
 + **Animal**   
-  [Dogs](https://github.com/CRBR-A/AnimalDogs),
-  Cats  
+  [Cats](https://github.com/CRBR-A/AnimalCats), 
+  [Dogs](https://github.com/CRBR-A/AnimalDogs)  
 + **Human**  
   + Commons  
     - [Earth](https://github.com/CRBR-A/HumanCommonsEarth)   
