@@ -13,20 +13,20 @@ Free public resources, for anyone, anywhere, any purpose, any time.
     - Signed  
   + Sciences  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
-  + [World](https://github.com/CRBR-A/HumanWorld),
-    [Countries](https://github.com/CRBR-A/HumanWorldCountries)  
-  + [History](https://github.com/CRBR-A/HumanHistory)  
-  + [Time](https://github.com/CRBR-A/HumanTime)  
+  + [World](https://github.com/CRBR-A/HumanWorld)   
   + [Sounds](https://github.com/CRBR-A/HumanSounds)  
-  + Society  
-     - [Economies](https://github.com/CRBR-A/HumanActivitiesEconomies)  
-     - [Laws](https://github.com/CRBR-A/HumanLaws)  
+  + Societies 
+    - [Countries](https://github.com/CRBR-A/HumanSocietiesCountries)  
+    - [Economies](https://github.com/CRBR-A/HumanSocietiesEconomies)  
+    - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
+    - [Laws](https://github.com/CRBR-A/HumanSocietiesLaws)  
+    - [Time](https://github.com/CRBR-A/HumanSocietiesTime)  
   + [Activities](https://github.com/CRBR-A/HumanActivities)  
-    + Leisures
-      - Books : 
-        [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
-      - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
-      - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
+  + Leisures
+    - Books : 
+      [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
+    - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
+    - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
 + **Machine**  
   + [Beings](https://github.com/CRBR-A/MachineBeings)  
   + [Languages](https://github.com/CRBR-A/MachineLanguages) : 
