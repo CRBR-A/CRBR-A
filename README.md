@@ -6,6 +6,10 @@ Free public resources, for anyone, anywhere, any purpose, any time.
   [Dogs](https://github.com/CRBR-A/AnimalDogs),
   Cats  
 + **Human**  
+  + Commons
+    - [Earth](https://github.com/CRBR-A/HumanCommonsEarth)   
+    - [Sounds](https://github.com/CRBR-A/HumanCommonsSounds)  
+    - [Time](https://github.com/CRBR-A/HumanCommonsTime)  
   + [Languages](https://github.com/CRBR-A/HumanLanguages)
     - [Mathematics](https://github.com/CRBR-A/HumanLanguagesMathematics)  
     - [English](https://github.com/CRBR-A/HumanLanguagesEnglish)  
@@ -13,15 +17,11 @@ Free public resources, for anyone, anywhere, any purpose, any time.
     - Signed  
   + Sciences  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
-  + [World](https://github.com/CRBR-A/HumanWorld)   
-  + [Sounds](https://github.com/CRBR-A/HumanSounds)  
   + Societies 
     - [Countries](https://github.com/CRBR-A/HumanSocietiesCountries)  
     - [Economies](https://github.com/CRBR-A/HumanSocietiesEconomies)  
     - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
     - [Laws](https://github.com/CRBR-A/HumanSocietiesLaws)  
-    - [Time](https://github.com/CRBR-A/HumanSocietiesTime)  
-  + [Activities](https://github.com/CRBR-A/HumanActivities)  
   + Leisures
     - Books : 
       [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
@@ -34,6 +34,7 @@ Free public resources, for anyone, anywhere, any purpose, any time.
     [Web](https://github.com/CRBR-A/MachineProgramsWeb)  
   + Leisures  
     - Games  
+    - Music
   
 **Works** :  
 + **In Progress** :   
