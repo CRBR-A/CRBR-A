@@ -20,7 +20,7 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [Economies](https://github.com/CRBR-A/HumanSocietiesEconomies)  
     - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
     - [Laws](https://github.com/CRBR-A/HumanSocietiesLaws)  
-  + Sciences  
+  + [Sciences](https://github.com/CRBR-A/HumanSciences)  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
   + Leisures
     - Books : 
