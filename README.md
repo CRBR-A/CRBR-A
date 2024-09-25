@@ -38,11 +38,12 @@ Free public resources, for anyone, any purpose, anywhere, any time.
   
 **Works** :  
 + **In Progress** :   
-  - Machine Beings : guides for smart bots, robots and Humans  
-  - [Purlandtraining.com (website down)](https://purlandtraining.com/) : English lessons  
+  - [World Factbook](https://github.com/CRBR-A/HumanSocietiesCountries) : spiting data into new repository  
+  - [Purlandtraining.com](https://purlandtraining.com/) : English lessons  
   - Mathematics  
 + **Pending** :  
   - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical, bilingual), encyclopedia  
+  - [Machine Beings](https://github.com/CRBR-A/MachineBeings) : guides for smart bots, robots and Humans  
   
 **Contact** : 
 <code><!-- &#x20; --></code>&#x43;&#x65;&#x72;&#x62;&#x65;&#x72;&#x65;<span><!-- &#x40; --></span>&#x2E;&#x41;&#x63;&#x65;<span><!-- &#x40; --></span>&#x40;&#x67;&#x6D;&#x61;<span><!-- &#x40; --></span>&#x69;<span><!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>  
