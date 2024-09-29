@@ -17,11 +17,14 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - Français  
   + Societies 
     - [Countries](https://github.com/CRBR-A/HumanSocietiesCountries)  
-    - [Economies](https://github.com/CRBR-A/HumanSocietiesEconomies)  
     - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
-    - [Laws](https://github.com/CRBR-A/HumanSocietiesLaws)  
   + [Sciences](https://github.com/CRBR-A/HumanSciences)  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
+  + Organizations 
+    - [Economy](https://github.com/CRBR-A/HumanOrganizationsEconomy)  
+    - [Government](https://github.com/CRBR-A/HumanOrganizationsGovernment)  
+    - [Military](https://github.com/CRBR-A/HumanOrganizationsMilitary)  
+    - [Rights](https://github.com/CRBR-A/HumanOrganizationsRights)  
   + Leisures
     - Books : 
       [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
@@ -29,12 +32,15 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
 + **Machine**  
   + [Beings](https://github.com/CRBR-A/MachineBeings)  
-  + [Languages](https://github.com/CRBR-A/MachineLanguages) : 
+  + [Communications](https://github.com/CRBR-A/MachineCommunications)  
+  + [Energies](https://github.com/CRBR-A/MachineEnergies)  
+  + [Languages](https://github.com/CRBR-A/MachineLanguages)  
     [Programs](https://github.com/CRBR-A/MachinePrograms), 
     [Web](https://github.com/CRBR-A/MachineProgramsWeb)  
+  + [Transportation](https://github.com/CRBR-A/MachineTransportation)  
   + Leisures  
-    - Games  
-    - Music  
+    + [Games](https://github.com/CRBR-A/MachineLeisuresGames)  
+    + [Music](https://github.com/CRBR-A/MachineLeisuresMusic)  
   
 **Works** :  
 + **In Progress** :   
