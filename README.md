@@ -16,7 +16,6 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [English](https://github.com/CRBR-A/HumanLanguagesEnglish)  
     - Français  
   + Societies 
-    - [Countries](https://github.com/CRBR-A/HumanSocietiesCountries)  
     - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
   + [Sciences](https://github.com/CRBR-A/HumanSciences)  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
@@ -24,6 +23,7 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [Economy](https://github.com/CRBR-A/HumanOrganizationsEconomy)  
     - [Government](https://github.com/CRBR-A/HumanOrganizationsGovernment)  
     - [Military](https://github.com/CRBR-A/HumanOrganizationsMilitary)  
+    - [Populations](https://github.com/CRBR-A/HumanOrganizationsPopulations)  
     - [Rights](https://github.com/CRBR-A/HumanOrganizationsRights)  
   + Leisures
     - Books : 
