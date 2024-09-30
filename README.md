@@ -7,27 +7,28 @@ Free public resources, for anyone, any purpose, anywhere, any time.
   [Dogs](https://github.com/CRBR-A/AnimalDogs)  
 + **Human**  
   + Commons  
-    - [Earth](https://github.com/CRBR-A/HumanCommonsEarth)   
+    - [Geography](https://github.com/CRBR-A/HumanCommonsGeography)   
+    - [History](https://github.com/CRBR-A/HumanCommonsHistory)   
     - [Languages](https://github.com/CRBR-A/HumanCommonsLanguages)
     - [Mathematics](https://github.com/CRBR-A/HumanCommonsMathematics)  
     - [Sounds](https://github.com/CRBR-A/HumanCommonsSounds)  
+    - [Survival](https://github.com/CRBR-A/HumanCommonsSurvival)  
     - [Time](https://github.com/CRBR-A/HumanCommonsTime)  
   + Languages  
     - [English](https://github.com/CRBR-A/HumanLanguagesEnglish)  
     - Français  
-  + Societies 
-    - [History](https://github.com/CRBR-A/HumanSocietiesHistory)  
   + [Sciences](https://github.com/CRBR-A/HumanSciences)  
     - [Health](https://github.com/CRBR-A/HumanSciencesHealth)  
   + Organizations 
     - [Economy](https://github.com/CRBR-A/HumanOrganizationsEconomy)  
     - [Government](https://github.com/CRBR-A/HumanOrganizationsGovernment)  
     - [Military](https://github.com/CRBR-A/HumanOrganizationsMilitary)  
-    - [Populations](https://github.com/CRBR-A/HumanOrganizationsPopulations)  
+    - [Population](https://github.com/CRBR-A/HumanOrganizationsPopulation)  
     - [Rights](https://github.com/CRBR-A/HumanOrganizationsRights)  
   + Leisures
     - Books : 
       [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
+    - [Cooking](https://github.com/CRBR-A/HumanLeisuresCooking)  
     - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
     - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
 + **Machine**  
@@ -43,8 +44,7 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     + [Music](https://github.com/CRBR-A/MachineLeisuresMusic)  
   
 **Works** :  
-+ **In Progress** :   
-  - [World Factbook](https://github.com/CRBR-A/HumanSocietiesCountries) : spiting data into new repository  
++ **In Progress** : 
   - [Purlandtraining.com](https://purlandtraining.com/) : English lessons  
   - Mathematics  
 + **Pending** :  
