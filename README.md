@@ -13,7 +13,7 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [Mathematics](https://github.com/CRBR-A/HumanCommonsMathematics)  
     - [Sounds](https://github.com/CRBR-A/HumanCommonsSounds)  
     - [Survival](https://github.com/CRBR-A/HumanCommonsSurvival)  
-    - [Time](https://github.com/CRBR-A/HumanCommonsTime)  
+    - [Space and Time](https://github.com/CRBR-A/HumanCommonsSpaceTime)  
   + Languages  
     - [English](https://github.com/CRBR-A/HumanLanguagesEnglish)  
     - Français  
