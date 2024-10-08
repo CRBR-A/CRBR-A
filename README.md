@@ -7,9 +7,9 @@ Free public resources, for anyone, any purpose, anywhere, any time.
   [Dogs](https://github.com/CRBR-A/AnimalDogs)  
 + **Human**  
   + Commons  
+    - [Communication](https://github.com/CRBR-A/HumanCommonsCommunication)
     - [Geography](https://github.com/CRBR-A/HumanCommonsGeography)   
     - [History](https://github.com/CRBR-A/HumanCommonsHistory)   
-    - [Languages](https://github.com/CRBR-A/HumanCommonsLanguages)
     - [Mathematics](https://github.com/CRBR-A/HumanCommonsMathematics)  
     - [Sounds](https://github.com/CRBR-A/HumanCommonsSounds)  
     - [Survival](https://github.com/CRBR-A/HumanCommonsSurvival)  
