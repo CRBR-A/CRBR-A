@@ -1,10 +1,10 @@
 **CRBR-A**  
-Free public resources, for anyone, any purpose, anywhere, any time.  
+Free public-domain resources : for anyone, any purpose, anywhere, any time.  
 
 **Topics** :  
 + **Animal**   
-  [Cats](https://github.com/CRBR-A/AnimalCats), 
-  [Dogs](https://github.com/CRBR-A/AnimalDogs)  
+  - [Cats](https://github.com/CRBR-A/AnimalCats)  
+  - [Dogs](https://github.com/CRBR-A/AnimalDogs)  
 + **Human**  
   + Commons  
     - [Communication](https://github.com/CRBR-A/HumanCommonsCommunication)
@@ -26,22 +26,27 @@ Free public resources, for anyone, any purpose, anywhere, any time.
     - [Population](https://github.com/CRBR-A/HumanOrganizationsPopulation)  
     - [Rights](https://github.com/CRBR-A/HumanOrganizationsRights)  
   + Leisures
-    - Books : 
-      [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
-    - [Cooking](https://github.com/CRBR-A/HumanLeisuresCooking)  
-    - [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
-    - [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
+    + Books :  
+      - [Children](https://github.com/CRBR-A/HumanLeisuresBooksChildren)  
+      - [Comics](https://github.com/CRBR-A/HumanLeisuresBooksComics)  
+      - [Poetry](https://github.com/CRBR-A/HumanLeisuresBooksPoetry)  
+    + [Cooking](https://github.com/CRBR-A/HumanLeisuresCooking)  
+    + [Games](https://github.com/CRBR-A/HumanLeisuresGames)  
+    + [Music](https://github.com/CRBR-A/HumanLeisuresMusic)  
+    + [Sports](https://github.com/CRBR-A/HumanLeisuresSports)  
+    + [Theater](https://github.com/CRBR-A/HumanLeisuresTheater)  
 + **Machine**  
   + [Beings](https://github.com/CRBR-A/MachineBeings)  
-  + [Communications](https://github.com/CRBR-A/MachineCommunications)  
-  + [Energies](https://github.com/CRBR-A/MachineEnergies)  
   + [Languages](https://github.com/CRBR-A/MachineLanguages)  
     [Programs](https://github.com/CRBR-A/MachinePrograms), 
     [Web](https://github.com/CRBR-A/MachineProgramsWeb)  
-  + [Transportation](https://github.com/CRBR-A/MachineTransportation)  
   + Leisures  
     + [Games](https://github.com/CRBR-A/MachineLeisuresGames)  
     + [Music](https://github.com/CRBR-A/MachineLeisuresMusic)  
+  + Uses
+    + [Communications](https://github.com/CRBR-A/MachineUsesCommunications)  
+    + [Energies](https://github.com/CRBR-A/MachineUsesEnergies)  
+    + [Transportation](https://github.com/CRBR-A/MachineUsesTransportation)  
   
 **Works** :  
 + **In Progress** : 
