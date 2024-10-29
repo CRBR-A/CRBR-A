@@ -37,7 +37,7 @@ Free public-domain resources : for anyone, any purpose, anywhere, any time.
     + [Theater](https://github.com/CRBR-A/HumanLeisuresTheater)  
 + **Machine**  
   + Computer : 
-    [Languages](https://github.com/CRBR-A/MachineComputerLanguages),
+    [Programming](https://github.com/CRBR-A/MachineComputerProgramming),
     [Software](https://github.com/CRBR-A/MachineComputerSoftware),
     [Web](https://github.com/CRBR-A/MachineComputerWeb)  
   + Leisures  
