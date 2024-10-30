@@ -40,6 +40,7 @@ Free public-domain resources : for anyone, any purpose, anywhere, any time.
     [Programming](https://github.com/CRBR-A/MachineComputerProgramming),
     [Software](https://github.com/CRBR-A/MachineComputerSoftware),
     [Web](https://github.com/CRBR-A/MachineComputerWeb)  
+  + [Electronics](https://github.com/CRBR-A/MachineElectronics)    
   + Leisures  
     + [Games](https://github.com/CRBR-A/MachineLeisuresGames)  
     + [Music](https://github.com/CRBR-A/MachineLeisuresMusic)  
