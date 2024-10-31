@@ -52,10 +52,12 @@ Free public-domain resources : for anyone, any purpose, anywhere, any time.
   
 **Works** :  
 + **In Progress** : 
-  - Mathematics  
+  - [Computer Programming](https://github.com/CRBR-A/MachineComputerProgramming) : C language  
+  - [Electronics](https://github.com/CRBR-A/MachineElectronics)    
+  - Leisures : [Games](https://github.com/CRBR-A/HumanLeisuresGames), [Sports](https://github.com/CRBR-A/HumanLeisuresSports)
++ **Pending** :  
   - [Robotics](https://github.com/CRBR-A/MachineUsesRobotics)  
   - [Purlandtraining.com](https://purlandtraining.com/) : English lessons  
-+ **Pending** :  
   - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical, bilingual), encyclopedia  
 
   
