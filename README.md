@@ -1,6 +1,8 @@
 **CRBR-A**  
 Free public-domain resources : for anyone, any purpose, anywhere, any time.  
 
+**STATUS: HIATUS**
+
 **Topics** :  
 + **Animal** :
   [Cats](https://github.com/CRBR-A/AnimalCats),
@@ -51,12 +53,11 @@ Free public-domain resources : for anyone, any purpose, anywhere, any time.
     + [Transportation](https://github.com/CRBR-A/MachineUsesTransportation)  
   
 **Works** :  
-+ **In Progress** : 
++ **Currently : HIATUS**
++ **Pending** :  
   - [Computer Programming](https://github.com/CRBR-A/MachineComputerProgramming) : C language  
   - [Electronics](https://github.com/CRBR-A/MachineElectronics)    
   - Leisures : [Games](https://github.com/CRBR-A/HumanLeisuresGames), [Sports](https://github.com/CRBR-A/HumanLeisuresSports)
-+ **Pending** :  
-  - [Robotics](https://github.com/CRBR-A/MachineUsesRobotics)  
   - [Purlandtraining.com](https://purlandtraining.com/) : English lessons  
   - [Wikidata.org](https://www.wikidata.org/) : dictionaries (classical, bilingual), encyclopedia  
 
